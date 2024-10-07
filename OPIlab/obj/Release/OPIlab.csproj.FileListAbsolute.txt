@@ -1,0 +1,14 @@
+D:\МГТУ\C#\OPIlab\bin\Release\OPIlab.exe.config
+D:\МГТУ\C#\OPIlab\bin\Release\OPIlab.exe
+D:\МГТУ\C#\OPIlab\bin\Release\OPIlab.pdb
+D:\МГТУ\C#\OPIlab\obj\Release\OPIlab.csproj.AssemblyReference.cache
+D:\МГТУ\C#\OPIlab\obj\Release\OPIlab.Form1.resources
+D:\МГТУ\C#\OPIlab\obj\Release\OPIlab.Form2.resources
+D:\МГТУ\C#\OPIlab\obj\Release\OPIlab.Form3.resources
+D:\МГТУ\C#\OPIlab\obj\Release\OPIlab.Form4.resources
+D:\МГТУ\C#\OPIlab\obj\Release\OPIlab.Form5.resources
+D:\МГТУ\C#\OPIlab\obj\Release\OPIlab.Properties.Resources.resources
+D:\МГТУ\C#\OPIlab\obj\Release\OPIlab.csproj.GenerateResource.cache
+D:\МГТУ\C#\OPIlab\obj\Release\OPIlab.csproj.CoreCompileInputs.cache
+D:\МГТУ\C#\OPIlab\obj\Release\OPIlab.exe
+D:\МГТУ\C#\OPIlab\obj\Release\OPIlab.pdb
